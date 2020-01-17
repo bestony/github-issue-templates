@@ -16,9 +16,11 @@ If possible, please provide code that demonstrates the problem, keeping it as
 simple and free of external dependencies as you are able.
 -->
 
-* **Version**: <!-- compulsory. you must provide your version -->
-* **Platform**: <!-- either `uname -a` output, or if Windows, version and 32-bit or
+- **Version**: <!-- compulsory. you must provide your version -->
+- **Platform**:
+  <!-- either `uname -a` output, or if Windows, version and 32-bit or
   64-bit -->
-* **Subsystem**: <!-- optional. if known - please specify affected core module name -->
+- **Subsystem**:
+  <!-- optional. if known - please specify affected core module name -->
 
 <!-- Enter your issue details below this comment. -->
